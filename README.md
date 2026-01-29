@@ -16,13 +16,13 @@ Inventory and stock availability control
 Order and payment 
 
 Sales and revenue analysis graph
-<a href="<img width="759" height="244" alt="im3" src="https://github.com/user-attachments/assets/a75aa85a-be34-4caa-aa97-6cde71ccce31"> image>/a>
+<a href="img width="759" height="244" alt="im3" src="https://github.com/user-attachments/assets/a75aa85a-be34-4caa-aa97-6cde71ccce31"> image>/a>
 
 
 <a href="img width="788" height="219" alt="im1" src="https://github.com/user-attachments/assets/bbc0d7a2-8eba-4bf8-b0dd-bbc43d959b24" >image2</a>
 
 
-<a href="<img width="764" height="244" alt="im2" src="https://github.com/user-attachments/assets/a308ad2e-708d-4596-9fc2-e0151e693c01"">image3</a>
+<a href="img width="764" height="244" alt="im2" src="https://github.com/user-attachments/assets/a308ad2e-708d-4596-9fc2-e0151e693c01">image3</a>
 
 
 
