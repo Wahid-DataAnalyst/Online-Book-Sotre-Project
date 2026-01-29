@@ -5,13 +5,6 @@ Project Objective:
 
 The objective of this project is to build a structured and scalable SQL database for an online book store that supports efficient data storage, retrieval, and analysis. It simulates real business scenarios like order processing, stock management, and customer behavior analysis.
 
-
-<a href="https://github.com/Wahid-DataAnalyst/Online-Book-Sotre-Project/blob/main/booid.png"> graph</a>
-
-<a href="https://github.com/Wahid-DataAnalyst/Online-Book-Sotre-Project/blob/main/bookqua.png"> graph</a>
-
-<a href="https://github.com/Wahid-DataAnalyst/Online-Book-Sotre-Project/blob/main/re.png"> graph</a>
-
 Features:
 
 Book, author, and category management
@@ -24,9 +17,9 @@ Order and payment
 
 Sales and revenue analysis using SQL queries
 
-<a href=img width="1491" height="466" alt="booid" src="https://github.com/user-attachments/assets/d19e8c0a-37f8-47fc-9718-fefdd93e93e4 > image</a>
-<a href=img width="1491" height="466" alt="bookqua" src="https://github.com/user-attachments/assets/608bec5d-00e2-41b6-92ec-7772f06f88d6>image <a/>
-<a href=img width="1491" height="466" alt="re" src="https://github.com/user-attachments/assets/a256181d-755e-40a0-9937-0a1d3d63734d> image <a/>
+<a href="img width="1491" height="466" alt="booid" src="https://github.com/user-attachments/assets/d19e8c0a-37f8-47fc-9718-fefdd93e93e4 "> image1</a>
+<a href="img width="1491" height="466" alt="bookqua" src="https://github.com/user-attachments/assets/608bec5d-00e2-41b6-92ec-7772f06f88d6">image2 <a/>
+<a href="img width="1491" height="466" alt="re" src="https://github.com/user-attachments/assets/a256181d-755e-40a0-9937-0a1d3d63734d"> image3 <a/>
 
 
 
