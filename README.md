@@ -6,9 +6,9 @@ Project Objective:
 The objective of this project is to build a structured and scalable SQL database for an online book store that supports efficient data storage, retrieval, and analysis. It simulates real business scenarios like order processing, stock management, and customer behavior analysis.
 
 
-<a href="https://github.com/Wahid-DataAnalyst/Online-Book-Sotre-Project/blob/main/booid.png"> graph</a>
-<a href="https://github.com/Wahid-DataAnalyst/Online-Book-Sotre-Project/blob/main/bookqua.png"> graph</a>
-<a href="https://github.com/Wahid-DataAnalyst/Online-Book-Sotre-Project/blob/main/re.png"> graph</a>
+<a href=https://github.com/Wahid-DataAnalyst/Online-Book-Sotre-Project/blob/main/booid.png> graph</a>
+<a href=https://github.com/Wahid-DataAnalyst/Online-Book-Sotre-Project/blob/main/bookqua.png> graph</a>
+<a href=https://github.com/Wahid-DataAnalyst/Online-Book-Sotre-Project/blob/main/re.png> graph</a>
 
 Features:
 
