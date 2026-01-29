@@ -15,9 +15,13 @@ Inventory and stock availability control
 
 Order and payment 
 
-Sales and revenue analysis using SQL quer
+Sales and revenue analysis graph
 <a href="img width="1491" height="466" alt="booid" src="https://github.com/user-attachments/assets/d19e8c0a-37f8-47fc-9718-fefdd93e93e4 "> image>/a>
+
+
 <a href="img width="1491" height="466" alt="bookqua" src="https://github.com/user-attachments/assets/608bec5d-00e2-41b6-92ec-7772f06f88d6">image2</a>
+
+
 <a href="img width="1491" height="466" alt="re" src="https://github.com/user-attachments/assets/a256181d-755e-40a0-9937-0a1d3d63734d">image3</a>
 
 
